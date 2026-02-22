@@ -17,4 +17,4 @@ ls -la /Users/joy/.openclaw/workspace/docs/
 ls -la /Users/joy/.openclaw/workspace/sprint-1.md
 
 echo -e "\n--- ACTIVE OPERATIONS ---"
-openclaw logs --n 20
+openclaw logs --limit 20
