@@ -41,6 +41,7 @@ apps/ios/*.xcfilelist
 # Vendor build artifacts
 vendor/a2ui/renderers/lit/dist/
 src/canvas-host/a2ui/*.bundle.js
+src/canvas-host/a2ui/*.bundle.js.map
 src/canvas-host/a2ui/*.map
 .bundle.hash
 
@@ -75,3 +76,15 @@ USER.md
 memory/
 .agent/*.json
 !.agent/workflows/
+
+# Private workspace files
+workspace/SOUL.md
+workspace/USER.md
+workspace/IDENTITY.md
+workspace/BOOTSTRAP.md
+workspace/memory/
+**/credentials
+**/.env
+openclaw.config*
+openclaw.json
+.openclaw/

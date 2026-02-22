@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "summarize": {
+      "version": "1.0.0",
+      "installedAt": 1770806535674
+    },
+    "imap-smtp-email": {
+      "version": "0.0.2",
+      "installedAt": 1770843191044
+    },
+    "spotify-player": {
+      "version": "1.0.0",
+      "installedAt": 1770843432148
+    }
+  }
+}
