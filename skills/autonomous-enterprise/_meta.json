@@ -1,0 +1,9 @@
+{
+  "clawdbot": {
+    "emoji": "🏢",
+    "categories": ["automation", "productivity", "meta"],
+    "requires": {
+      "bins": ["openclaw", "node"]
+    }
+  }
+}
